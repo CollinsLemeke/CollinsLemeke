@@ -1,6 +1,6 @@
 # Hi There, I'm Collins Lemeke  
 
-**AI Research & Machine Learning Practitioner** | MSc Artificial Intelligence (Ongoing)  
+**AI Research & Machine Learning Practitioner** | MSc Artificial Intelligence (Ongoing) | Experienced IT Infrastructure & Support Engr
 Building AI solutions that are **accurate, explainable, and impactful**  
 
 ---

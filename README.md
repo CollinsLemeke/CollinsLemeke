@@ -7,7 +7,7 @@ Building AI solutions that are **accurate, explainable, and impactful**
 ---
 
 ## About Me  
-I’m an AI enthusiast with a Computer Science background and hands-on experience in ** IT Infrastructure & Support, Machine Learning, Deep Learning, Computer Vision, and Data Science**.  
+I’m an AI enthusiast with a Computer Science background and hands-on experience in IT Infrastructure & Support, Machine Learning, Deep Learning, Computer Vision, and Data Science**.  
 My projects span **Machine Learning & Deep Learning, predictive analytics, natural language processing, image recognition, and scientific data visualization** — combining robust technical skills with a passion for real-world problem solving.  
 
 Currently pursuing my **MSc in Artificial Intelligence**, I’m focused on:

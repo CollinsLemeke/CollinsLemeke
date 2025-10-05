@@ -45,7 +45,7 @@ Currently pursuing my **MSc in Artificial Intelligence**, I’m focused on:
 ---
 
 ##  Let's Connect  
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
+- 💼 [LinkedIn]: https://www.linkedin.com/in/collins-lemeke-ai-machine-learning?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 - 📧 Email: collinslemeke@ieee.org  
 - 🌐 Kaggle: https://www.kaggle.com/collinslemeke
 

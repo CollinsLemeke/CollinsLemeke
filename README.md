@@ -42,7 +42,8 @@ Currently pursuing my **MSc in Artificial Intelligence**, I’m focused on:
 
 ## Career Highlights
 - AI Research & Development at CIoTH, University of Greater Manchester.  
-- Strong foundation in **IT Infrastructure & Support Engineering** — now applying that systems reliability mindset to AI solutions.  
+- Strong foundation in **IT Infrastructure & Support Engineering** — now applying that systems reliability mindset to AI solutions.
+    * Snr. IT Support Engr (last role before my msc) 
 - Currently pursuing an **MSc in Artificial Intelligence**, exploring research in **explainable computer vision models, deep learning models, NLP, IoT and other aspect of AI**.  
 
 ---

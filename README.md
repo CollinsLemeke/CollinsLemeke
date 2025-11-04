@@ -7,8 +7,11 @@ Building AI solutions that are **accurate, explainable, and impactful**
 ---
 
 ## About Me  
-I’m an AI enthusiast with a Computer Science background and hands-on experience in IT Infrastructure & Support, Machine Learning, Deep Learning, Computer Vision, and Data Science. 
-My projects span **Machine Learning & Deep Learning, predictive analytics, natural language processing, image recognition, and scientific data visualization** — combining robust technical skills with a passion for real-world problem solving.  
+I'm someone who stands at the intersection of IT infrastructure, AI, and hardware & IoT smart systems, blending hands-on technical skills with a genuine passion for solving real-world problems. 
+
+Over the years, I’ve collaborated with teams in configuration, deployment and supported in enterprise environments, dived into intelligent automation with microprocessors , and built things from machine learning models to simulations for IoT devices.
+
+What drives me is curiosity, mostly scientific, the constant urge to learn, improve, and explore what technology can really do. I'm excited about building solutions that aren’t just smart, but meaningful, things that actually make a difference and help push the limits of what's possible.  
 
 Currently pursuing my **MSc in Artificial Intelligence**, I’m focused on:
 - Applied AI for real-world use cases

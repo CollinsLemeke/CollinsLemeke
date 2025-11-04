@@ -41,14 +41,14 @@ Currently pursuing my **MSc in Artificial Intelligence**, I’m focused on:
 ---
 
 ## Career Highlights
-- AI Research at CIoTH, University of Greater Manchester.  
+- AI Research & Development at CIoTH, University of Greater Manchester.  
 - Strong foundation in **IT Infrastructure & Support Engineering** — now applying that systems reliability mindset to AI solutions.  
-- Currently pursuing an **MSc in Artificial Intelligence**, exploring research in **explainable computer vision models and other aspect of AI**.  
+- Currently pursuing an **MSc in Artificial Intelligence**, exploring research in **explainable computer vision models, deep learning models, NLP, IoT and other aspect of AI**.  
 
 ---
 
 ##  Let's Connect  
-- 💼 [LinkedIn]: https://www.linkedin.com/in/collins-lemeke-ai-machine-learning?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- 💼 [LinkedIn]: www.linkedin.com/in/collins-lemeke-ai-machine-learning
 - 📧 Email: collinslemeke@ieee.org  
 - 🌐 Kaggle: https://www.kaggle.com/collinslemeke
 

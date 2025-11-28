@@ -1,58 +1,18 @@
-# Hi There, I'm Collins Lemeke  
+Hi, I'm Collins Lemeke 👋
 
-**AI Research & Machine Learning Practitioner** | MSc Artificial Intelligence (Ongoing) | Experienced IT Infrastructure & Support Engr
+AI Engineer & MSc Artificial Intelligence (Ongoing)
+Building practical, explainable, and production-ready AI systems.
 
-Building AI solutions that are **accurate, explainable, and impactful**  
+I work at the intersection of AI, IT infrastructure, and smart systems, applying a strong engineering background to develop reliable machine learning solutions. My work spans computer vision, NLP, deep learning, IoT simulations, and applied AI for real-world use cases.
 
----
+Current Focus:
 
-## About Me  
-I'm someone who stands at the intersection of IT infrastructure, AI, and hardware & IoT smart systems, blending hands-on technical skills with a genuine passion for solving real-world problems. 
+Explainable AI & Computer Vision
 
-Over the years, I’ve collaborated with teams in configuration, deployment and supported in enterprise environments, dived into intelligent automation with microprocessors , and built things from machine learning models to simulations for IoT devices.
+Deep Learning Systems & Model Optimization
 
-What drives me is curiosity, mostly scientific, the constant urge to learn, improve, and explore what technology can really do. I'm excited about building solutions that aren’t just smart, but meaningful, things that actually make a difference and help push the limits of what's possible.  
+Deployment (Streamlit, FastAPI, HuggingFace)
 
-Currently pursuing my **MSc in Artificial Intelligence**, I’m focused on:
-- Applied AI for real-world use cases
-- Machine Learning & Deep Learning
-- Computer Vision & Explainable AI
-- Reinforcement Learning
-- AI ethics, interpretability, and responsible deployment
+Reliable AI for real-world applications
 
----
-
-## Technical Skills
-
-**Languages & Libraries**  
-`Python` `NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn` `TensorFlow` `Keras` `PyTorch` `OpenCV` `R`
-
-**Specializations**  
-- Supervised & Unsupervised Learning  
-- Deep Learning Architectures (CNN, RNN, ANN)  
-- Data Preprocessing & Feature Engineering  
-- Model Evaluation & Optimization  
-- Computer Vision & Image Processing
-- Natural Language Processing
-
-**Tools & Platforms**  
-`Jupyter Notebook` `Git` `GitHub Actions` `Streamlit` `Docker` `Kaggle` `HuggingFace` 
-
----
-
-## Career Highlights
-- AI Research & Development at CIoTH, University of Greater Manchester.  
-- Strong foundation in **IT Infrastructure & Support Engineering** — now applying that systems reliability mindset to AI solutions.
-    * Snr. IT Support Engr (last role before my msc) 
-- Currently pursuing an **MSc in Artificial Intelligence**, exploring research in **explainable computer vision models, deep learning models, NLP, IoT and other aspect of AI**.  
-
----
-
-##  Let's Connect  
-- 💼 [LinkedIn]: www.linkedin.com/in/collins-lemeke-ai-machine-learning
-- 📧 Email: collinslemeke@ieee.org  
-- 🌐 Kaggle: https://www.kaggle.com/collinslemeke
-
----
-
-> _"AI is only as strong as the systems it runs on, and systems are only as valuable as the insights they deliver."_  
+Tech Stack: Python · PyTorch · TensorFlow · Scikit-learn · OpenCV · HuggingFace · Docker · GitHub Actions

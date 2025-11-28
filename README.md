@@ -7,9 +7,9 @@ I work at the intersection of AI, IT infrastructure, and smart systems, applying
 
 Current Focus:
 
-Explainable AI & Computer Vision
-
 Deep Learning Systems & Model Optimization
+
+Explainable AI & Computer Vision
 
 Deployment (Streamlit, FastAPI, HuggingFace)
 

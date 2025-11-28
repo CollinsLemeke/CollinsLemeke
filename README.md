@@ -9,7 +9,7 @@ Current Focus:
 
 Deep Learning Systems & Model Optimization
 
-Open source models & Computer Vision
+Open source models, AI Architecture & Computer Vision
 
 Deployment (Streamlit, FastAPI, HuggingFace)
 

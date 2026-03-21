@@ -27,10 +27,10 @@ I focus on building AI systems that don’t just work in theory, but deliver val
 ---
 
 ## ⚙️ Tech Stack
-**Languages:** Python, SQL  
+**Languages:** Python  
 **Frameworks:** PyTorch, TensorFlow, Scikit-learn  
-**Tools:** OpenCV, Hugging Face Transformers, Docker  
-**Platforms:** Kaggle, Streamlit, Linux  
+**Tools:** OpenCV, Hugging Face Transformers, Docker, Streamlit, Gradio  
+**Platforms:** Kaggle, Huggingface, GitHub  
 **Other:** Model Deployment, Data Pipelines, System Design  
 
 ---
@@ -46,7 +46,6 @@ I focus on building AI systems that don’t just work in theory, but deliver val
 ## 📈 Current Focus
 - Scalable LLM systems & RAG architectures  
 - Model optimization & compression (efficient AI)  
-- Explainable AI (XAI)  
 - AI for sustainability  
 
 ---

@@ -1,18 +1,5 @@
-Hi, I'm Collins Lemeke 👋
+AI Research Engineer with hands-on experience across the full ML pipeline, from model development to real-world deployment.
 
-AI Engineer & MSc Artificial Intelligence (Ongoing)
-Building practical, Sustainable, and production-ready AI systems.
+Core skills: Machine Learning · Deep Learning · Computer Vision · NLP & Transformers · IoT & Smart Systems · IT Infrastructure
 
-I work at the intersection of AI, IT infrastructure, and smart systems, applying a strong engineering background to develop reliable machine learning solutions. My work spans computer vision, NLP, deep learning, IoT simulations, and applied AI for real-world use cases.
-
-Current Focus:
-
-Deep Learning Systems & Model Optimization
-
-Open source models, AI Architecture & Computer Vision
-
-Deployment (Streamlit, FastAPI, HuggingFace)
-
-Reliable AI for real-world applications
-
-Tech Stack: Python · PyTorch · TensorFlow · Scikit-learn · OpenCV · HuggingFace · Docker · GitHub Actions
+I build and deploy AI systems that work in practice — spanning computer vision pipelines, NLP applications, transformer-based models, and IoT-driven automation. My background combines AI research with enterprise IT infrastructure, giving me a strong edge in deploying systems that are both technically sound and production-ready.

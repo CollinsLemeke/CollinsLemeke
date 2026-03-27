@@ -1,9 +1,11 @@
 # 👋 Hi, I'm Collins Lemeke  
-### AI Research Engineer | Building Real-World AI Systems
+### AI Engineer | Building Real-World AI Systems
 
-🚀 I’m an AI Research Engineer with hands-on experience across the full machine learning lifecycle — from model development to real-world deployment.
+AI Engineer with hands-on experience building and experimenting with machine learning models for real-world applications.
 
-I focus on building AI systems that don’t just work in theory, but deliver value in practice.
+Core skills: Machine Learning · Deep Learning · Computer Vision · NLP & Transformers · Hugging Face & Open-Source AI · IT Infrastructure
+
+I build practical AI systems across computer vision and NLP, applying modern techniques to solve real problems. With a background in IT Infrastructure and progression to Senior IT Support Engineer, I bring strong systems thinking, deployment awareness, and real-world engineering experience into developing reliable and scalable AI solutions.
 
 ---
 

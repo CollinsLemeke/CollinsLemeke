@@ -2,14 +2,15 @@
 
 # Collins Lemeke
 
-**AI Engineer · AI Research · IT Infrastructure & Support**
+**AI Research Engineer · MSc Artificial Intelligence · IEEE Affiliated**
 
 Building intelligent systems that bridge research and real-world deployment
 
-[![LinkedIn](www.linkedin.com/in/collins-lemeke-ai-machine-learning)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/YOUR-HF)
-[![Kaggle]([https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR-KAGGLE](https://www.kaggle.com/collinslemeke/code))
-[![Google Scholar]([https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR-ID](https://scholar.google.com/citations?user=0GSSSfsAAAAJ&hl=en))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/collins-lemeke-ai-machine-learning)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/Lemeke)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/collinslemeke)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR-ID)
+[![IEEE](https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieee.org)
 
 </div>
 
@@ -17,9 +18,9 @@ Building intelligent systems that bridge research and real-world deployment
 
 ### About Me
 
-AI Engineer, AI Research & MSc Artificial Intelligence student at the University of Greater Manchester, affiliated with the **Centre for Intelligence of Things (CIoTh)** and **IEEE**. Co-founder of the **AI Nexus Society** at UGM.
+AI Engineer and MSc Artificial Intelligence student at the University of Greater Manchester, affiliated with the **Centre for Intelligence of Things (CIoTh)** and **IEEE**. Cofounder & vice chairman of the **AI Nexus Society** the first AI dedicated society at the University of Greater Manchester.
 
-I build end-to-end AI systems — from model training to production deployment — across NLP, computer vision, and IoT. With a background in IT infrastructure and progression to Senior IT Support Engineer, I bring strong systems thinking and deployment awareness to every project.
+I build end-to-end AI systems — from model training to production deployment — across NLP, computer vision, and IoT. With a background in IT infrastructure and progression to Senior IT Support Engineer, I bring strong systems thinking and deployment awareness to every project. My research spans deep learning, transformer architectures, and cognitive computing, with multiple IEEE conference publications.
 
 -----
 
@@ -57,34 +58,50 @@ I build end-to-end AI systems — from model training to production deployment �
 
 ### Featured Projects
 
-|Project                         |Description                                                           |Stack                                |
-|--------------------------------|----------------------------------------------------------------------|-------------------------------------|
-|**CraftMyCV**                   |AI-powered CV generation platform with 12 professional templates      |Streamlit · Flan-T5 · HF Spaces      |
-|**NetGaze ML Pipeline**         |End-to-end ML dashboard — 10+ algorithms, live neural network training|Streamlit · Scikit-learn · TensorFlow|
-|**MindPulse AI**                |7-class mental health sentiment classifier (~82% accuracy)            |DistilBERT · Streamlit · HF Spaces   |
-|**UGM Chatbot**                 |University chatbot with TF-IDF intent matching + Llama 3.2            |Llama 3.2 · Streamlit · HF Spaces    |
-|**ALMA**                        |AI Labour Market Aggregator — job market analytics dashboard          |Streamlit · Data Viz                 |
-|**AI Career Fit Analyzer**      |Career matching engine with 180+ skills ontology across 12 roles      |Streamlit · NLP                      |
-|**Smart Home Gesture Detection**|Gesture-controlled smart home system                                  |Arduino · APDS-9960                  |
-
-
-> 🔗 *Explore live demos on my [Hugging Face Spaces](https://huggingface.co/YOUR-HF) and [Kaggle](https://www.kaggle.com/YOUR-KAGGLE) profiles.*
+|Project                          |Description                                                           |Stack                                |Links                                                                                                                                               |
+|---------------------------------|----------------------------------------------------------------------|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+|**CraftMyCV**                    |AI-powered CV generation platform with 12 professional templates      |Streamlit · Flan-T5                  |[![HF](https://img.shields.io/badge/Live-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/Lemeke/CraftMyCV)  |
+|**NetGaze ML Pipeline**          |End-to-end ML dashboard — 10+ algorithms, live neural network training|Streamlit · Scikit-learn · TensorFlow|[![HF](https://img.shields.io/badge/Live-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/Lemeke/NetGaze)    |
+|**MindPulse AI**                 |7-class mental health sentiment classifier (~82% accuracy)            |DistilBERT · Streamlit               |[![HF](https://img.shields.io/badge/Live-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/Lemeke/MindPulse)  |
+|**UGM Chatbot**                  |University chatbot with TF-IDF intent matching + Llama 3.2            |Llama 3.2 · Streamlit                |[![HF](https://img.shields.io/badge/Live-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/Lemeke/UGM-Chatbot)|
+|**ALMA**                         |AI Labour Market Aggregator — job market analytics dashboard          |Streamlit · Data Viz                 |[![HF](https://img.shields.io/badge/Live-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/Lemeke/ALMA)       |
+|**Tesla Stock Price Prediction** |Stock closing price prediction using RNN-LSTM architecture            |TensorFlow · Keras                   |[![Kaggle](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/collinslemeke)       |
+|**Facial Expression Recognition**|CNN-based facial expression detection model                           |TensorFlow · CNN                     |[![Kaggle](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/collinslemeke)       |
+|**Autism Emotion Detection**     |Computer vision model for emotion recognition in autistic teenagers   |VGG16 · Transfer Learning            |[![Kaggle](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/collinslemeke)       |
 
 -----
 
-### Research & Publications
+### Publications
+
+📄 **Deep learning approach for stock closing price prediction: A hybrid approach using RNN–LSTM architecture**
+*C Lemeke (Primary Author), N Aboutorabi, F Amiri, SE Uwah, B Makinde, C Iwendi*
+ICATEST 2025 — Peer Reviewed · Published 2026
+
+📄 **Detecting emerging patterns in bank card fraud using a neuroadaptive deep learning framework**
+*B Makinde, C Iwendi, OA Ojo, SE Uwah, T Fadeyi, C Lemeke*
+IEEE ICTBIG 2025
+
+📄 **Psycho-Intelligent Dialogue Agents for Enhancing Emotional Self-Regulation in Autistic Teenagers**
+*C Iwendi, N Aboutorabi, AE Adesola, C Lemeke, GC Okoro, DU Ozsahin*
+IEEE IC3ECSBHI 2026
+
+📄 **Smart irrigation system using soil moisture sensor**
+*PO Okewumi, C Iwendi, OA Ojo, N Aboutorabi, V Sharma, C Lemeke*
+IEEE ICTBIG 2025
+
+📄 **Integrating behavioural science using the Psycho-Intelligence framework in connected systems**
+*C Iwendi, EG Nwibo, V Sharma, C Lemeke, SE Uwah, KK Ukura*
+IEEE ICTBIG 2025
 
 📄 **Towards Cognitive-Efficient Psycho-Intelligence** — *Accepted at ICNDSA 2026*
-📄 Co-authored IEEE conference publications through CIoTh
-🎤 Presented at IEEE Women in Engineering programme session
 
-Affiliated with the **Centre for Intelligence of Things (CIoTh)** under Prof. Celestine Iwendi
+> 🔬 *Additional papers in progress: DistilBERT distillation for carbon-efficient NLP, and facial expression recognition — experiments completed, manuscripts under preparation.*
 
 -----
 
 ### Current Focus
 
-🔬 Carbon-efficient NLP — DistilBERT distillation for sustainable AI (MSc dissertation: *NetZeroNLP*)
+🔬 Carbon-efficient NLP — DistilBERT distillation for sustainable AI *(MSc Dissertation)*
 ⚡ Model optimization & compression for edge deployment
 🏗️ Scalable LLM systems & RAG architectures
 🌍 AI for sustainability & IoT integration
@@ -95,8 +112,9 @@ Affiliated with the **Centre for Intelligence of Things (CIoTh)** under Prof. Ce
 
 I’m open to **AI/ML engineering roles**, **research collaborations**, and conversations about building AI systems that work in the real world.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/collins-lemeke-ai-machine-learning)
+[![Hugging Face](https://img.shields.io/badge/Explore_My_Demos-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/Lemeke)
+[![Kaggle](https://img.shields.io/badge/View_My_Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/collinslemeke)
 
 -----
 

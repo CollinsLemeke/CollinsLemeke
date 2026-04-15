@@ -17,7 +17,7 @@ Building intelligent systems that bridge research and real-world deployment
 
 ### About Me
 
-AI Engineer and MSc Artificial Intelligence student at the University of Greater Manchester, affiliated with the **Centre for Intelligence of Things (CIoTh)** and **IEEE**. Cofounder & vice chairman of the **AI Nexus Society** the first AI dedicated society at the University of Greater Manchester.
+AI Research Engineer and MSc Artificial Intelligence student at the University of Greater Manchester, affiliated with the **Centre for Intelligence of Things (CIoTh)** under Prof. Celestine Iwendi and **IEEE**. Co-founder of the **AI Nexus Society** at UGM.
 
 I build end-to-end AI systems — from model training to production deployment — across NLP, computer vision, and IoT. With a background in IT infrastructure and progression to Senior IT Support Engineer, I bring strong systems thinking and deployment awareness to every project. My research spans deep learning, transformer architectures, and cognitive computing, with multiple IEEE conference publications.
 
@@ -57,16 +57,16 @@ I build end-to-end AI systems — from model training to production deployment �
 
 ### Featured Projects
 
-|Project                          |Description                                                           |Stack                                |Links                                                                                                                                               |
-|---------------------------------|----------------------------------------------------------------------|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-|**CraftMyCV**                    |AI-powered CV generation platform with 12 professional templates      |Streamlit · Flan-T5                  |[![HF](https://img.shields.io/badge/Live-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/Lemeke/CraftMyCV)  |
-|**NetGaze ML Pipeline**          |End-to-end ML dashboard — 10+ algorithms, live neural network training|Streamlit · Scikit-learn · TensorFlow|[![HF](https://img.shields.io/badge/Live-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/Lemeke/NetGaze)    |
-|**MindPulse AI**                 |7-class mental health sentiment classifier (~82% accuracy)            |DistilBERT · Streamlit               |[![HF](https://img.shields.io/badge/Live-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/Lemeke/MindPulse)  |
-|**UGM Chatbot**                  |University chatbot with TF-IDF intent matching + Llama 3.2            |Llama 3.2 · Streamlit                |[![HF](https://img.shields.io/badge/Live-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/Lemeke/UGM-Chatbot)|
-|**ALMA**                         |AI Labour Market Aggregator — job market analytics dashboard          |Streamlit · Data Viz                 |[![HF](https://img.shields.io/badge/Live-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/Lemeke/ALMA)       |
-|**Tesla Stock Price Prediction** |Stock closing price prediction using RNN-LSTM architecture            |TensorFlow · Keras                   |[![Kaggle](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/collinslemeke)       |
-|**Facial Expression Recognition**|CNN-based facial expression detection model                           |TensorFlow · CNN                     |[![Kaggle](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/collinslemeke)       |
-|**Autism Emotion Detection**     |Computer vision model for emotion recognition in autistic teenagers   |VGG16 · Transfer Learning            |[![Kaggle](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/collinslemeke)       |
+|Project                                        |Description                                                                                        |Stack                                |Links                                                                                                                                                                                             |
+|-----------------------------------------------|---------------------------------------------------------------------------------------------------|-------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|**CraftMyCV**                                  |AI-powered CV generation platform with 12 professional templates                                   |Streamlit · Flan-T5                  |[![HF](https://img.shields.io/badge/Live-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/Lemeke/CraftMyCV)                                                |
+|**ChatUGM**                                    |University chatbot with TF-IDF intent matching + Llama 3.2                                         |Llama 3.2 · Streamlit                |[![HF](https://img.shields.io/badge/Live-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://lemeke-chatbot.hf.space)                                                               |
+|**NetGaze ML Pipeline**                        |End-to-end ML dashboard — 10+ algorithms, live neural network training                             |Streamlit · Scikit-learn · TensorFlow|[![HF](https://img.shields.io/badge/Live-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://lemeke-netgaze-ai.hf.space)                                                            |
+|**ALMA**                                       |AI Labour Market Aggregator — job market analytics dashboard                                       |Streamlit · Data Viz                 |[![HF](https://img.shields.io/badge/Live-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://lemeke-ai-labour-market-intelligence.hf.space)                                         |
+|**Facial Expression Recognition**              |CNN-based facial expression detection model *(experiment used in research)*                        |TensorFlow · CNN                     |[![Kaggle](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/collinslemeke)                                                     |
+|**Autism Emotion Detection**                   |Computer vision model for emotion recognition in autistic teenagers *(experiment used in research)*|VGG16 · Transfer Learning            |[![Kaggle](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/collinslemeke)                                                     |
+|**DistilBERT Mental Health Sentiment Analysis**|7-class mental health sentiment classifier (~82% accuracy) *(experiment used in research)*         |DistilBERT · Transformers            |[![Kaggle](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/collinslemeke/distilbert-sentiment-analysis-for-mental-health)|
+|**Tesla Stock Price Prediction**               |Stock closing price prediction using RNN-LSTM architecture *(experiment used in research)*         |TensorFlow · Keras                   |[![Kaggle](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/collinslemeke)                                                     |
 
 -----
 
@@ -100,7 +100,7 @@ IEEE ICTBIG 2025
 
 ### Current Focus
 
-🔬 Carbon-efficient NLP — DistilBERT distillation for sustainable AI *(MSc Dissertation)*
+🔬 Carbon-efficient NLP — DistilBERT distillation for sustainable AI *(MSc Dissertation: NetZeroNLP)*
 ⚡ Model optimization & compression for edge deployment
 🏗️ Scalable LLM systems & RAG architectures
 🌍 AI for sustainability & IoT integration

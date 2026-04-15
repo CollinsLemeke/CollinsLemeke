@@ -102,8 +102,8 @@ IEEE ICTBIG 2025
 
 ### Current Focus
 
-🔬 Carbon-efficient NLP — DistilBERT distillation for sustainable AI *(MSc Dissertation: NetZeroNLP)*
-⚡ Model optimization & compression for edge deployment
+🔬 Carbon-efficient NLP — DistilBERT distillation for sustainable AI
+⚡ Model optimization & compression 
 🏗️ Scalable LLM systems & RAG architectures
 🌍 AI for sustainability & IoT integration
 

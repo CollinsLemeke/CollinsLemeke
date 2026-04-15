@@ -2,7 +2,7 @@
 
 # Collins Lemeke
 
-**AI Research Engineer · MSc Artificial Intelligence · IEEE Affiliated**
+**AI Engineer · AI Research · IT Infrastructure & Support**
 
 Building intelligent systems that bridge research and real-world deployment
 
@@ -17,7 +17,7 @@ Building intelligent systems that bridge research and real-world deployment
 
 ### About Me
 
-AI Research Engineer and MSc Artificial Intelligence student at the University of Greater Manchester, affiliated with the **Centre for Intelligence of Things (CIoTh)** and **IEEE**. Co-founder of the **AI Nexus Society** at UGM.
+AI Engineer, AI Research & MSc Artificial Intelligence student at the University of Greater Manchester, affiliated with the **Centre for Intelligence of Things (CIoTh)** and **IEEE**. Co-founder of the **AI Nexus Society** at UGM.
 
 I build end-to-end AI systems — from model training to production deployment — across NLP, computer vision, and IoT. With a background in IT infrastructure and progression to Senior IT Support Engineer, I bring strong systems thinking and deployment awareness to every project.
 

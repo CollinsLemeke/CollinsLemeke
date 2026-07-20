@@ -2,7 +2,7 @@
 
 # Collins Lemeke
 
-**AI Engineer · AI Research · IEEE Affiliated**
+**Engineer · AI Research & Development · IEEE Affiliated**
 
 Building intelligent systems that bridge research and real-world deployment
 
@@ -15,13 +15,13 @@ Building intelligent systems that bridge research and real-world deployment
 
 -----
 
-### About Me
+### Overview
 
-AI Engineer with hands-on experience building and experimenting with machine learning & deep learning models for real-world applications, affiliated with the **Centre for Intelligence of Things (CIoTh)** and **IEEE**. Cofounder & vice chair of the **AI Nexus Society** the first AI dedicated society at the University of Greater Manchester.
+AI Engineer working across machine learning, deep learning and transformer architectures, with five peer-reviewed IEEE conference papers spanning applied AI, intelligent automation and human-centred systems. Research covered by The Guardian Nigeria, THISDAY, The Sun Nigeria and allAfrica.com, and featured in the IEEE University of Greater Manchester Student Branch newsletter. MSc Artificial Intelligence, Distinction.
 
-Core skills: Machine Learning · Deep Learning · Computer Vision · NLP & Transformers · Hugging Face & Open-Source AI · IT Infrastructure
+I came to AI through infrastructure, spending four years at Sidmach Technologies and progressing from trainee to Senior IT Infrastructure and Support Engineer across firewalls, enterprise networks and large-scale migrations. That grounding is why I care less about benchmark wins than about whether a system survives contact with real users: what it costs to run, how it fails, and whether the person relying on it can understand what it is doing.
 
-I build practical AI systems across machine learning, deep learning & transformer architecture applying modern techniques to solve real problems. With a background in IT Infrastructure and progression to Senior IT Support 
+My work sits mostly in sustainable, interpretable and human-centred AI, fine-tuned small models and retrieval-augmented systems. Python daily for four years. 
 
 -----
 

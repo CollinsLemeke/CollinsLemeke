@@ -84,6 +84,20 @@ Additional co-authored work on neuroadaptive fraud detection and IoT sensing —
 
 -----
 
+### Media Recognition
+
+**Psycho-Intelligence Framework — ICRITO 2025**
+Named as a co-researcher on the CIoTh team behind a real-time closed-loop system integrating EEG and motion sensor data to decode cognitive and emotional states.
+[The Guardian Nigeria](https://guardian.ng/appointments/us-honours-nigerian-professors-ai-exploit/) · [THISDAY](https://www.thisdaylive.com/2025/08/20/university-of-greater-manchester-researchers-present-groundbreaking-psycho-intelligence-framework-at-international-conference/) · [The Sun Nigeria](https://thesun.ng/university-of-greater-manchester-researchers-present-groundbreaking-psycho-intelligence-framework-at-international-conference/) · [allAfrica](https://allafrica.com/stories/202508210410.html) · [MindWell News](https://mindwellnews.com/insight/72Dj9Ag928Y) *(Aug–Sept 2025)*
+
+**Autism-related Psycho-Intelligence research**
+Named in coverage of two new CIoTh papers on human-centred AI for autistic individuals.
+[THISDAY](https://www.thisdaylive.com/2026/04/22/cioth-celebrates-publication-of-two-new-papers-advancing-psycho-intelligence-for-autism-related-innovation/) *(April 2026)*
+
+**Institutional recognition**
+[IEEE University of Manchester Student Branch newsletter](https://enotice.vtools.ieee.org/public/177925) · [University of Greater Manchester — CIoTh research output](https://inside.ugm.ac.uk/cioth-research-papers/) *(2025)*
+
+-----
 ### Current Focus
 
 🔬 Carbon-efficient NLP — DistilBERT distillation for sustainable AI

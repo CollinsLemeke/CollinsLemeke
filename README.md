@@ -56,7 +56,7 @@ My work sits mostly in sustainable, interpretable and human-centred AI, fine-tun
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **DistilBERT vs Frontier LLMs** | Fine-tuned on 200k+ reviews, benchmarked against GPT-4, Gemini 1.5 Pro and LLaMA 3.3 70B — 88.19% accuracy with cost and carbon trade-offs quantified | DistilBERT · Transformers | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/DistilBERT-vs-Frontier-LLMs) |
+| **DistilBERT vs Frontier LLMs** | Fine-tuned on 200k+ reviews, benchmarked against GPT-4, Gemini 1.5 Pro and LLaMA 3.3 70B — 88.19% accuracy with cost and carbon trade-offs quantified | DistilBERT · Transformers | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/DistilBERT-vs-Frontier-LLMs) [![Notebook](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/collinslemeke/distilbert-vs-frontier-llms-on-narrow-ai-task) |
 | **Cognitive Decline from Gait** | Interpretable ML detecting cognitive decline from walking alone — 163 older adults, published dataset | scikit-learn · statsmodels | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/Detecting-Cognitive-Decline-Falls-and-Frailty) [![Data](https://img.shields.io/badge/Dataset-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/collinslemeke/gstride-gait-frailty-and-cognitive-dataset) |
 | **ChatUGM** | University chatbot with TF-IDF intent matching + Llama 3.2 | Llama 3.2 · Gradio | [![Demo](https://img.shields.io/badge/Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://lemeke-chatbot.hf.space) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/ChatUGM) |
 | **NetGaze** | End-to-end ML dashboard — 10+ algorithms, live neural network training | Streamlit · scikit-learn · TensorFlow | [![Demo](https://img.shields.io/badge/Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://lemeke-netgaze-ai.hf.space) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/NetGaze) |
@@ -68,7 +68,7 @@ My work sits mostly in sustainable, interpretable and human-centred AI, fine-tun
 | **DistilBERT Mental Health Sentiment** | 7-class mental health sentiment classifier, ~82% accuracy *(published research)* | DistilBERT · Transformers | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/DistilBERT-Sentient-Analysis-for-Mental-Health) [![Notebook](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/collinslemeke/distilbert-sentiment-analysis-for-mental-health) |
 
 *Demos are hosted on free Hugging Face Spaces and may take ~30 seconds to wake.*
-*Demos are hosted on free Hugging Face Spaces and may take ~30 seconds to wake.*
+
 -----
 
 ### Publications

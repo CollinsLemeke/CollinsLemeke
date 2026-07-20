@@ -71,29 +71,16 @@ My work sits mostly in sustainable, interpretable and human-centred AI, fine-tun
 
 ### Publications
 
-📄 **Deep learning approach for stock closing price prediction: A hybrid approach using RNN–LSTM architecture**
-*C Lemeke (Primary Author), N Aboutorabi, F Amiri, SE Uwah, B Makinde, C Iwendi*
-ICATEST 2025 — Peer Reviewed · Published 2026
+**5 peer-reviewed conference papers** · [Google Scholar]([[YOUR_SCHOLAR_LINK](https://scholar.google.com/citations?user=0GSSSfsAAAAJ&hl=en)])
 
-📄 **Detecting emerging patterns in bank card fraud using a neuroadaptive deep learning framework**
-*B Makinde, C Iwendi, OA Ojo, SE Uwah, T Fadeyi, C Lemeke*
-IEEE ICTBIG 2025
+📄 **Deep learning approach for stock closing price prediction: a hybrid RNN–LSTM architecture** — *primary author*
+ICATEST 2025
 
-📄 **Psycho-Intelligent Dialogue Agents for Enhancing Emotional Self-Regulation in Autistic Teenagers**
-*C Iwendi, N Aboutorabi, AE Adesola, C Lemeke, GC Okoro, DU Ozsahin*
-IEEE IC3ECSBHI 2026
+**Psycho-Intelligence research thread**
+Behavioural science in connected systems · Dialogue agents for emotional self-regulation in autistic teenagers · *Towards cognitive-efficient psycho-intelligence* (accepted, ICNDSA 2026)
 
-📄 **Smart irrigation system using soil moisture sensor**
-*PO Okewumi, C Iwendi, OA Ojo, N Aboutorabi, V Sharma, C Lemeke*
-IEEE ICTBIG 2025
-
-📄 **Integrating behavioural science using the Psycho-Intelligence framework in connected systems**
-*C Iwendi, EG Nwibo, V Sharma, C Lemeke, SE Uwah, KK Ukura*
-IEEE ICTBIG 2025
-
-📄 **Towards Cognitive-Efficient Psycho-Intelligence** — *Accepted at ICNDSA 2026*
-
-> 🔬 *Additional papers in progress: DistilBERT distillation for carbon-efficient NLP, and facial expression recognition — experiments completed, manuscripts under preparation.*
+Additional co-authored work on neuroadaptive fraud detection and IoT sensing — see Scholar for the full list.
+> 🔬 *Additional papers in progress.*
 
 -----
 

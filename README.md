@@ -2,7 +2,7 @@
 
 # Collins Lemeke
 
-**Engineer · AI Research & Development · IEEE Affiliated**
+**Engineer · AI Research & Development · IEEE Member**
 
 Building intelligent systems that bridge research and real-world deployment
 

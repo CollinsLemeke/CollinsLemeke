@@ -97,7 +97,7 @@ Named in coverage of two new CIoTh papers on human-centred AI for autistic indiv
 [THISDAY](https://www.thisdaylive.com/2026/04/22/cioth-celebrates-publication-of-two-new-papers-advancing-psycho-intelligence-for-autism-related-innovation/) *(April 2026)*
 
 **Institutional recognition**
-[IEEE University of Manchester Student Branch newsletter](https://enotice.vtools.ieee.org/public/177925) · [University of Greater Manchester — CIoTh research output](https://inside.ugm.ac.uk/cioth-research-papers/) *(2025)*
+[University of Greater Manchester Research Repository](https://ub-ir.bolton.ac.uk/esploro/search/outputs?query=any,contains,collins%20lemeke&scope=Research&page=1&institution=44UOBO_INST) — published papers indexed in the institutional library · [IEEE University of Manchester Student Branch newsletter](https://enotice.vtools.ieee.org/public/177925) · [CIoTh research output](https://inside.ugm.ac.uk/cioth-research-papers/) *(2025)*
 
 -----
 ### Current Focus

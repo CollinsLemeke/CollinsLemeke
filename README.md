@@ -76,7 +76,7 @@ My work sits mostly in sustainable, interpretable and human-centred AI, fine-tun
 📄 **Deep learning approach for stock closing price prediction: a hybrid RNN–LSTM architecture** — *primary author*
 ICATEST 2025
 
-**Psycho-Intelligence research thread**
+📄 **Psycho-Intelligence research thread**
 Behavioural science in connected systems · Dialogue agents for emotional self-regulation in autistic teenagers · *Towards cognitive-efficient psycho-intelligence* (accepted, ICNDSA 2026)
 
 Additional co-authored work on neuroadaptive fraud detection and IoT sensing — see Scholar for the full list.

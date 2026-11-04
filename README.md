@@ -17,7 +17,7 @@ Building AI systems that are efficient, explainable and useful outside the lab
 
 ### About
 
-I work across machine learning, deep learning and transformer models, with a focus on sustainable, interpretable and human-centred AI. I am an author on five peer-reviewed conference papers (four IEEE, plus one Springer paper where I am first author), with two more accepted in 2026.
+I work across machine learning, deep learning and transformer models, with a focus on sustainable, interpretable and human-centred AI. I am an author on five published peer-reviewed conference papers (four IEEE, plus one Springer paper where I am first author), with two more first-author papers accepted in 2026. One of them, on lightweight NLP for affective state recognition, received the NLP Excellence Award at ICI3T 2026.
 
 I came to AI through infrastructure. I spent four years at Sidmach Technologies in Nigeria, progressing from trainee to Senior IT Infrastructure and Support Engineer across firewalls, enterprise networks and large-scale migrations. That background is why I care less about benchmark wins and more about whether a system holds up with real users: what it costs to run, how it fails, and whether the person relying on it can understand what it is doing.
 
@@ -37,7 +37,7 @@ I contribute to research at the Centre of Intelligence of Things (CIoTh), Univer
 
 **Platforms & Hardware**
 
-![Hugging Face Spaces](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=000) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![Hugging Face Spaces](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=000) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
 ---
 
@@ -47,14 +47,15 @@ I contribute to research at the Centre of Intelligence of Things (CIoTh), Univer
 |---|---|---|---|
 | **DistilBERT vs Frontier LLMs** | My MSc dissertation. Fine-tuned a 66M-parameter DistilBERT on 200k+ mental health app reviews and benchmarked it against seven frontier LLMs, including GPT-4. Ranked 2nd of 8 on macro F1 for 3-class sentiment while emitting hundreds of thousands of times less CO₂ per prediction than GPT-4's published estimate | DistilBERT · CodeCarbon | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/DistilBERT-vs-Frontier-LLMs) [![Notebook](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/collinslemeke/distilbert-vs-frontier-llms-on-narrow-ai-task) |
 | **Cognitive Decline from Gait** | Interpretable ML that screens for signs of cognitive decline, falls and frailty from walking data alone, using the public GSTRIDE dataset of 163 older adults | scikit-learn · statsmodels | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/Detecting-Cognitive-Decline-Falls-and-Frailty) [![Data](https://img.shields.io/badge/Dataset-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/collinslemeke/gstride-gait-frailty-and-cognitive-dataset) |
-| **ChatUGM** | University assistant that combines TF-IDF intent matching with Llama 3.2 and answers with links to the official pages | Llama 3.2 · Gradio | [![Demo](https://img.shields.io/badge/Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://lemeke-chatbot.hf.space) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/ChatUGM) |
+| **Dataset Lie Detector** | Upload a CSV and get a trust audit before you build on it: column-level and overall quality scores, the uses the data can and cannot support, and suggested research directions | Gradio · pandas | [![Demo](https://img.shields.io/badge/Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/Lemeke/dataset-lie-detector) |
+| **ChatUGM** | Retrieval-augmented assistant for the University of Greater Manchester, grounded on the university's own web pages. Every answer links back to the official page it came from, and Study Mode lets students upload their own documents | Llama 3.2 · Gradio | [![Demo](https://img.shields.io/badge/Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://lemeke-chatbot.hf.space) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/ChatUGM) |
 | **NetGaze** | No-code ML dashboard: upload data, train 10+ algorithms, watch neural networks train live and explain results with SHAP | Streamlit · scikit-learn · TensorFlow | [![Demo](https://img.shields.io/badge/Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://lemeke-netgaze-ai.hf.space) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/NetGaze) |
-| **CraftMyCV** | AI-powered CV builder with 12 professional templates | Streamlit · Flan-T5 | [![Demo](https://img.shields.io/badge/Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/Lemeke/CraftMyCV) |
-| **ALMA** | AI Labour Market Aggregator: job analytics across 22 AI and tech roles | Streamlit · Data Viz | [![Demo](https://img.shields.io/badge/Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://lemeke-ai-labour-market-intelligence.hf.space) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/AI-Labor-Market-Aggregator-ALMA-) |
+| **MindPulse AI** | 7-class mental health sentiment classifier with about 82% test accuracy *(paper accepted, 2026)* | DistilBERT · Transformers | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/DistilBERT-Sentient-Analysis-for-Mental-Health) [![Notebook](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/collinslemeke/distilbert-sentiment-analysis-for-mental-health) |
 | **Autism Emotion Detection** | Emotion recognition for autistic children using transfer learning; the vision module behind our IEEE IC3ECSBHI 2026 paper *(published)* | VGG16 · TensorFlow | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/Autism-Facial-Emotion-Classification) [![Notebook](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/collinslemeke/autism-emotion-detection) |
 | **Facial Expression Recognition** | CNN for facial expression detection on FER-2013 with imbalance-aware evaluation *(paper in preparation)* | TensorFlow · CNN | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/Facial-Expression-Recognition-Model) [![Notebook](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/collinslemeke/facial-expression-recognition-with-cnn) |
 | **Tesla Stock Prediction** | Closing price prediction with a hybrid RNN-LSTM *(published, Springer, first author)* | TensorFlow · Keras | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/Tesla-Stock-Prediction) [![Notebook](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/collinslemeke/tesla-stock-prediction) |
-| **DistilBERT Mental Health Sentiment** | 7-class mental health sentiment classifier with about 82% test accuracy *(accepted paper, 2026)* | DistilBERT · Transformers | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/DistilBERT-Sentient-Analysis-for-Mental-Health) [![Notebook](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/collinslemeke/distilbert-sentiment-analysis-for-mental-health) |
+| **CraftMyCV** | AI-powered CV builder with 12 professional templates | Streamlit · Flan-T5 | [![Demo](https://img.shields.io/badge/Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/Lemeke/CraftMyCV) |
+| **ALMA** | AI Labour Market Aggregator: job analytics across 22 AI and tech roles | Streamlit · Data Viz | [![Demo](https://img.shields.io/badge/Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://lemeke-ai-labour-market-intelligence.hf.space) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/AI-Labor-Market-Aggregator-ALMA-) |
 
 *Demos run on free Hugging Face Spaces and may take about 30 seconds to wake up.*
 
@@ -72,8 +73,8 @@ I contribute to research at the Centre of Intelligence of Things (CIoTh), Univer
 
 **Accepted (2026)**
 
+- **Adaptive Cognitive Psychointelligence for Affective State Recognition: A Lightweight NLP Framework for Human-Centred AI** · ICI3T 2026, Springer LNNS · *First author* · Presented October 2026, NLP Excellence Award
 - **A Psycho-Intelligence Framework for Carbon-Aware Mental Health Sentiment Analysis: DistilBERT Versus Seven Frontier LLMs** · IEEE ICCCMLA 2026 · *First author*
-- **Adaptive Cognitive Psychointelligence for Affective State Recognition: A Lightweight NLP Framework for Human-Centred AI** · IEEE ICCCMLA 2026 · *First author*
 
 **In preparation:** explainable cognitive-decline screening from gait sensor data, and fairness-aware facial expression recognition.
 
@@ -81,7 +82,10 @@ Full author lists and citations are on my [Google Scholar profile](https://schol
 
 ---
 
-### Media Recognition
+### Awards & Recognition
+
+**NLP Excellence Award, ICI3T 2026**
+Awarded for my paper on lightweight NLP for affective state recognition, in the Human-Centred NLP & Affective State Recognition category. Conference organised by "Gheorghe Asachi" Technical University of Iasi, Romania.
 
 **Psycho-Intelligence Framework (2025)**
 Named as a co-researcher on the CIoTh team behind a real-time closed-loop system that combines EEG and motion sensor data to read cognitive and emotional states.
@@ -96,12 +100,22 @@ Named in the research team in coverage of two CIoTh papers on human-centred AI f
 
 ---
 
+### Certifications
+
+- Microsoft Azure Fundamentals
+- Microsoft Azure AI Fundamentals
+- Machine Learning Specialization, DeepLearning.AI
+- *In progress:* Microsoft AI-103, Azure AI Apps and Agents Developer Associate
+
+---
+
 ### Current Focus
 
 - Carbon-aware NLP with compact models such as DistilBERT
 - Model compression and efficient deployment
 - LLM applications and retrieval-augmented generation (RAG)
 - Explainable machine learning for health screening
+- Robotics: leading the robotics exhibition at CIoTh's *November to Remember 2026* series, with demos built on SunFounder Zeus Car and GalaxyRVR platforms
 
 ---
 

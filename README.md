@@ -2,12 +2,13 @@
 
 # Collins Lemeke
 
-**Associate Researcher, Centre of Intelligence of Things (CIoTh), University of Greater Manchester · IEEE Member**
+**AI Engineer & Researcher · Associate Researcher, Centre of Intelligence of Things (CIoTh), University of Greater Manchester · IEEE Member**
 
-Building AI systems that are efficient, explainable and useful outside the lab
+Building small, efficient and explainable AI that works for real people, outside the lab
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/collins-lemeke-ai-machine-learning)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.co.uk/citations?user=0GSSSfsAAAAJ&hl=en)
+[![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/author/YOUR_AUTHOR_ID)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-3192-7461)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/Lemeke)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/collinslemeke)
@@ -18,23 +19,26 @@ Building AI systems that are efficient, explainable and useful outside the lab
 
 ### At a glance
 
-- 🏆 **NLP Excellence Award, ICI3T 2026** for my first-author paper on lightweight affective state recognition
-- 🪙 **IEEE President's coin**, presented by Mary Ellen Randall, 2026 IEEE President and CEO, at IEEE Future Automation Day, UK Parliament (Nov 2026)
-- 📄 **Published:** four IEEE conference papers and a first-author Springer book chapter, with two more first-author papers and a Taylor & Francis book chapter on the way
-- 🤖 **Led the CIoTh robotics exhibition** at IEEE Future Automation Day and open-sourced the code for both robots
+- 🪙 **IEEE President's coin**, presented by Mary Ellen Randall, 2026 IEEE President and CEO, at IEEE Future Automation Day, Palace of Westminster (Nov 2026)
+- 🤖 **Led the CIoTh robotics exhibition** at the University of West London the same day, and open-sourced the code for both robots
+- 📚 **Two book chapters:** first author of a Springer chapter, and co-author of a chapter in a CRC Press textbook endorsed by the Director-General of the World Trade Organization
+- 📄 **Seven peer-reviewed conference papers:** four published with IEEE, three accepted (two as first author, at Springer LNNS and IEEE)
 - 📰 **Featured in [THISDAY](https://www.thisdaylive.com/2026/11/09/nigerian-ai-researcher-collins-lemeke-receives-ieee-presidents-coin-at-uk-parliament/)** (Nov 2026)
-- 📊 **Open work:** 15 Kaggle notebooks and 23 datasets, forked over 220 times
+- 📊 **Open work:** 15 Kaggle notebooks and 23 datasets, copied and forked over 220 times
+- 🏆 **NLP Excellence Award, ICI3T 2026** for my first-author paper on lightweight affective state recognition
 - 🎓 **MSc Artificial Intelligence (Distinction)**, University of Greater Manchester
 
 ---
 
 ### About
 
-I research and build AI that understands how people feel, from text, faces and wearable signals, and I care about making it small and cheap enough to run where people actually need it. Most of my work is in natural language processing, affective computing and efficient deep learning, with a focus on sustainable, interpretable and human-centred AI.
+I research and build AI that understands how people feel, from text, faces and wearable signals, and I care about making it small and cheap enough to run where people actually need it. My work sits across natural language processing, affective computing and efficient deep learning, with a focus on sustainable, interpretable and human-centred AI.
 
-I came to AI through infrastructure. I taught myself machine learning while spending nearly four years at Sidmach Technologies in Nigeria, progressing from trainee to Senior IT Infrastructure and Support Engineer across firewalls, enterprise networks and large-scale migrations. In 2024 I volunteered as an instructor with Babcock University's distance learning centre, teaching a course series from Python basics to machine learning.
+I came to AI through infrastructure. I taught myself machine learning while working at Sidmach Technologies in Nigeria, where I progressed from trainee to Senior IT Infrastructure and Support Engineer across firewalls, enterprise networks and large-scale migrations. In 2024 I volunteered as an instructor with Babcock University's distance learning centre, teaching a course series from Python basics to machine learning.
 
-That background shapes how I work. I care less about benchmark wins and more about whether a system holds up with real users: what it costs to run, how it fails, and whether the person relying on it can understand what it is doing.
+I moved to the UK in February 2025 to study. Since then I have published or had accepted seven peer-reviewed papers and two book chapters, open-sourced my code, and led a robotics exhibition for IEEE, while studying and working part time. One idea shows how I work: the hybrid RNN-LSTM model I built in 2024 was presented at ICATEST in 2025 and published by Springer as a book chapter in 2026.
+
+That background shapes what I value. I care less about benchmark wins and more about whether a system holds up with real users: what it costs to run, how it fails, and whether the person relying on it can understand what it is doing.
 
 Today I am an Associate Researcher at the Centre of Intelligence of Things (CIoTh), University of Greater Manchester, and co-founder and Vice Chairman of AI Nexus, the university's AI society.
 
@@ -44,15 +48,15 @@ Today I am an Associate Researcher at the Centre of Intelligence of Things (CIoT
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **DistilBERT vs Frontier LLMs** | MSc dissertation research. Fine-tuned a 66M-parameter DistilBERT on 200k+ mental health app reviews and benchmarked it against seven frontier LLMs, including GPT-4. Ranked 2nd of 8 on macro F1 while emitting hundreds of thousands of times less CO₂ per prediction than GPT-4's published estimate *(IEEE ICCCMLA 2026)* | DistilBERT · CodeCarbon | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/DistilBERT-vs-Frontier-LLMs) [![Notebook](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/collinslemeke/distilbert-vs-frontier-llms-on-narrow-ai-task) |
-| **DistilBERT for Mental Health Text** | Seven-class mental health text classifier with about 82% test accuracy, trained in 18 minutes *(ICI3T 2026, NLP Excellence Award)* | DistilBERT · Transformers | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/DistilBERT-Sentiment-Analysis-for-Mental-Health) [![Notebook](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/collinslemeke/distilbert-sentiment-analysis-for-mental-health) |
+| **DistilBERT vs Frontier LLMs** | MSc dissertation research. Fine-tuned a 66M-parameter DistilBERT on 200k+ mental health app reviews and benchmarked it against seven frontier LLMs, including GPT-4. Ranked 2nd of 8 on macro F1 while emitting hundreds of thousands of times less CO₂ per prediction than GPT-4's published estimate *(IEEE ICCCMLA 2026, first author)* | DistilBERT · CodeCarbon | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/DistilBERT-vs-Frontier-LLMs) [![Notebook](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/collinslemeke/distilbert-vs-frontier-llms-on-narrow-ai-task) |
+| **DistilBERT for Mental Health Text** | Seven-class mental health text classifier with about 82% test accuracy, trained in 18 minutes *(ICI3T 2026, Springer LNNS, first author, NLP Excellence Award)* | DistilBERT · Transformers | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/DistilBERT-Sentiment-Analysis-for-Mental-Health) [![Notebook](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/collinslemeke/distilbert-sentiment-analysis-for-mental-health) |
+| **Cognitive Decline from Gait** | Interpretable ML that screens for signs of cognitive decline, falls and frailty from walking data alone, using the public GSTRIDE dataset of 163 older adults. I designed the experiment *(IEEE ICOIN 2027, accepted)* | scikit-learn · statsmodels | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/Detecting-Cognitive-Decline-Falls-and-Frailty) [![Data](https://img.shields.io/badge/Dataset-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/collinslemeke/gstride-gait-frailty-and-cognitive-dataset) |
 | **Autism Emotion Detection** | Emotion recognition for autistic children using transfer learning; the vision module behind our IEEE IC3ECSBHI 2026 paper *(published)* | VGG16 · TensorFlow | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/Autism-Facial-Emotion-Classification) [![Notebook](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/collinslemeke/autism-emotion-detection) |
-| **Facial Expression Recognition** | CNN for facial expression detection on FER-2013 with imbalance-aware evaluation *(paper in preparation)* | TensorFlow · CNN | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/Facial-Expression-Recognition-Model) [![Notebook](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/collinslemeke/facial-expression-recognition-with-cnn) |
-| **Cognitive Decline from Gait** | Interpretable ML that screens for signs of cognitive decline, falls and frailty from walking data alone, using the public GSTRIDE dataset of 163 older adults | scikit-learn · statsmodels | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/Detecting-Cognitive-Decline-Falls-and-Frailty) [![Data](https://img.shields.io/badge/Dataset-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/collinslemeke/gstride-gait-frailty-and-cognitive-dataset) |
-| **Tesla Stock Prediction** | Closing price prediction with a hybrid RNN-LSTM *(Springer book chapter, first author)* | TensorFlow · Keras | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/Tesla-Stock-Prediction) [![Notebook](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/collinslemeke/tesla-stock-prediction) |
-| **ChatUGM** | Retrieval-augmented assistant for the University of Greater Manchester, grounded on the university's own web pages. Every answer links back to its official source, and Study Mode lets students upload their own documents | Llama 3.2 · Gradio | [![Demo](https://img.shields.io/badge/Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://lemeke-chatbot.hf.space) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/ChatUGM) |
+| **Tesla Stock Prediction** | Closing price prediction with a hybrid RNN-LSTM, built in 2024 *(Springer book chapter, first author)* | TensorFlow · Keras | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/Tesla-Stock-Prediction) [![Notebook](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/collinslemeke/tesla-stock-prediction) |
+| **Facial Expression Recognition** | CNN for facial expression detection on FER-2013 with imbalance-aware evaluation, widely copied on Kaggle *(paper in preparation)* | TensorFlow · CNN | [![Notebook](https://img.shields.io/badge/Notebook-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/collinslemeke/facial-expression-recognition-with-cnn) |
 | **GalaxyRVR Show Mode** | Four-mode interactive robot program with gesture-based mode switching, demonstrated at IEEE Future Automation Day 2026 | Arduino · C++ | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/galaxyrvr-show-mode) |
-| **Zeus Car Show Mode** | Six-mode omnidirectional robot program with compass-held movement and gesture-based mode switching | Arduino · C++ | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/zeuscar-show-mode) |
+| **Zeus Car Show Mode** | Six-mode omnidirectional robot program with compass-held movement and gesture-based mode switching, demonstrated at IEEE Future Automation Day 2026 | Arduino · C++ | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/zeuscar-show-mode) |
+| **ChatUGM** | Retrieval-augmented assistant for the University of Greater Manchester, grounded on the university's own web pages. Every answer links back to its official source, and Study Mode lets students upload their own documents | Llama 3.2 · Gradio | [![Demo](https://img.shields.io/badge/Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://lemeke-chatbot.hf.space) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/ChatUGM) |
 | **Dataset Lie Detector** | Upload a CSV and get a trust audit before you build on it: quality scores per column, what the data can and cannot support, and suggested research directions | Gradio · pandas | [![Demo](https://img.shields.io/badge/Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://huggingface.co/spaces/Lemeke/dataset-lie-detector) |
 | **NetGaze** | No-code ML dashboard: upload data, train 10+ algorithms, watch neural networks train live and explain results with SHAP | Streamlit · scikit-learn · TensorFlow | [![Demo](https://img.shields.io/badge/Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://lemeke-netgaze-ai.hf.space) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/NetGaze) |
 | **ALMA** | AI Labour Market Aggregator: job analytics across 22 AI and tech roles | Streamlit · Data Viz | [![Demo](https://img.shields.io/badge/Demo-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](https://lemeke-ai-labour-market-intelligence.hf.space) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/CollinsLemeke/AI-Labor-Market-Aggregator-ALMA-) |
@@ -64,34 +68,41 @@ Today I am an Associate Researcher at the Centre of Intelligence of Things (CIoT
 
 ### Publications
 
-**Published**
+**Book chapters**
 
-- **Deep learning approach for stock closing price prediction: a hybrid approach using RNN-LSTM architecture** · Springer book chapter, *Innovative Engineering and Scientific Approaches for Sustainable Economy and Ecotechnology* (2026) · *First author*
+- **Deep learning approach for stock closing price prediction: a hybrid approach using RNN-LSTM architecture** · Chapter 14 in *Innovative Engineering and Scientific Approaches for Sustainable Economy and Ecotechnology* (ICATEST 2025), Springer, 2026 · *First author* · DOI: 10.1007/978-3-032-15061-5_14 (online December 2026)
+- **Ethical, Legal and Governance Considerations in AI-Driven Global Trade and Supply Chain Management** · Chapter 9 in *[Artificial Intelligence in Global Trade and Supply Chain Management](https://www.routledge.com/Artificial-Intelligence-in-Global-Trade-and-Supply-Chain-Management-Fundamentals-Applications-Governance-and-Future-Directions/Iwendi/p/book/9781041468769)* (ed. C. Iwendi), CRC Press / Taylor & Francis, 2027 · *Second author* · Textbook endorsed by the Director-General of the WTO
+
+**Conference papers: published**
+
 - **Psycho-Intelligent Dialogue Agents for Enhancing Emotional Self-Regulation in Autistic Teenagers** · IEEE IC3ECSBHI 2026
 - **Integrating Behavioural Science using the Psycho-Intelligence Framework in Connected Systems** · IEEE ICTBIG 2025
 - **Detecting Emerging Patterns in Bank Card Fraud Using a Neuroadaptive Deep Learning Framework** · IEEE ICTBIG 2025
 - **Smart Irrigation System Using Soil Moisture Sensor** · IEEE ICTBIG 2025
 
-**Accepted and forthcoming**
+**Conference papers: accepted and forthcoming**
 
 - **Adaptive Cognitive Psychointelligence for Affective State Recognition: A Lightweight NLP Framework for Human-Centred AI** · ICI3T 2026, Springer LNNS · *First author* · NLP Excellence Award
-- **A Psycho-Intelligence Framework for Carbon-Aware Mental Health Sentiment Analysis: DistilBERT Versus Seven Frontier LLMs** · IEEE ICCCMLA 2026 · *First author*
-- **Ethical, Legal and Governance Considerations in AI-Driven Global Trade and Supply Chain Management** · Book chapter, *Artificial Intelligence in Global Trade and Supply Chain Management*, Taylor & Francis / CRC Press
+- **A Psycho-Intelligence Framework for Carbon-Aware Mental Health Sentiment Analysis: DistilBERT Versus Seven Frontier LLMs** · IEEE ICCCMLA 2026 · *First and presenting author*
+- **Psychointelligence for Dementia and Falls in Older Adults: Interpretable Cognitive-Decline Screening from Gait Sensor Data** · IEEE ICOIN 2027 · *Second author*
 
-**In preparation:** explainable cognitive-decline screening from gait sensor data, and fairness-aware facial expression recognition.
+**In preparation:** fairness-aware facial expression recognition, and a journal extension of my lightweight affective state recognition work.
 
-Full author lists and citations are on my [Google Scholar profile](https://scholar.google.co.uk/citations?user=0GSSSfsAAAAJ&hl=en).
+Full author lists and citations are on my [Google Scholar](https://scholar.google.co.uk/citations?user=0GSSSfsAAAAJ&hl=en) and [IEEE Xplore](https://ieeexplore.ieee.org/author/YOUR_AUTHOR_ID) profiles.
 
 ---
 
 ### Recognition & Press
 
 **IEEE President's Coin (2026)**
-Presented by Mary Ellen Randall, 2026 IEEE President and CEO, at IEEE Future Automation Day, UK Parliament, November 2026. The same day I led the CIoTh robotics exhibition at the University of West London.
+Presented by Mary Ellen Randall, 2026 IEEE President and CEO, at IEEE Future Automation Day, held at the Palace of Westminster in November 2026. The same day I led the CIoTh robotics exhibition at the University of West London, demonstrating robots running code I wrote and open-sourced.
 [THISDAY: Nigerian AI Researcher Collins Lemeke Receives IEEE President's Coin at UK Parliament](https://www.thisdaylive.com/2026/11/09/nigerian-ai-researcher-collins-lemeke-receives-ieee-presidents-coin-at-uk-parliament/)
 
+**Chapter in a WTO-endorsed textbook (2027)**
+Co-author of the chapter on ethics, law and governance in *Artificial Intelligence in Global Trade and Supply Chain Management* (CRC Press), a textbook endorsed by the Director-General of the World Trade Organization.
+
 **NLP Excellence Award, ICI3T 2026**
-For my paper on lightweight NLP for affective state recognition, in the Human-Centred NLP & Affective State Recognition category. Conference organised by "Gheorghe Asachi" Technical University of Iasi, Romania.
+For my first-author paper on lightweight NLP for affective state recognition, in the Human-Centred NLP & Affective State Recognition category. Conference organised by "Gheorghe Asachi" Technical University of Iasi, Romania.
 
 **Psycho-Intelligence Framework (2025)**
 Co-researcher on the CIoTh team behind a real-time closed-loop system that combines EEG and motion sensor data to read cognitive and emotional states.
@@ -99,7 +110,7 @@ Co-researcher on the CIoTh team behind a real-time closed-loop system that combi
 
 **Autism-related Psycho-Intelligence research (2026)**
 Named in the research team in coverage of two CIoTh papers on human-centred AI for autistic individuals.
-[THISDAY](https://www.thisdaylive.com/2026/04/22/cioth-celebrates-publication-of-two-new-papers-advancing-psycho-intelligence-for-autism-related-innovation/)
+[THISDAY](https://www.thisdaylive.com/2026/04/22/cioth-celebrates-publication-of-two-new-papers-advancing-psycho-intelligence-for-autism-related-innovation/) · [allAfrica](https://allafrica.com/stories/202604230278.html)
 
 **Institutional**
 [University of Greater Manchester Research Repository](https://ub-ir.bolton.ac.uk/esploro/search/outputs?query=any,contains,collins%20lemeke&scope=Research&page=1&institution=44UOBO_INST) · [IEEE Student Branch newsletter](https://enotice.vtools.ieee.org/public/177925) · [CIoTh research output](https://inside.ugm.ac.uk/cioth-research-papers/)
@@ -120,16 +131,16 @@ Named in the research team in coverage of two CIoTh papers on human-centred AI f
 
 ![Hugging Face Spaces](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=000) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
-**Certifications:** Microsoft Azure Fundamentals · Microsoft Azure AI Fundamentals · Machine Learning Specialization (DeepLearning.AI) · *in progress:* Microsoft AI-103
+**Certifications:** Microsoft Azure Fundamentals · Microsoft Azure AI Fundamentals · Machine Learning Specialization (DeepLearning.AI, Andrew Ng) · *in progress:* Microsoft AI-103
 
 ---
 
 ### Current Focus
 
+- Small language models on edge devices: private, low-cost AI that runs locally
 - Carbon-aware NLP with compact models such as DistilBERT
-- Model compression and efficient deployment
-- LLM applications and retrieval-augmented generation (RAG)
 - Explainable machine learning for health screening
+- LLM applications and retrieval-augmented generation (RAG)
 - Assistive AI for people who have lost their voice
 
 ---

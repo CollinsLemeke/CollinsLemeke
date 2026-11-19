@@ -73,7 +73,7 @@ The code behind my papers is open source on GitHub and Kaggle, free for anyone t
 **Book chapters**
 
 - **Deep learning approach for stock closing price prediction: a hybrid approach using RNN-LSTM architecture** · Chapter 14 in *Innovative Engineering and Scientific Approaches for Sustainable Economy and Ecotechnology* (ICATEST 2025), Springer, 2026 · *First author* · DOI: 10.1007/978-3-032-15061-5_14 (online December 2026)
-  - *My role:* designed and built the hybrid RNN-LSTM model in 2024. It was presented at ICATEST in 2025 and published by Springer as this chapter in 2026 · [Code](https://github.com/CollinsLemeke/Tesla-Stock-Prediction) · [Notebook](https://www.kaggle.com/code/collinslemeke/tesla-stock-prediction)
+  - *My role:* designed and built the hybrid RNN-LSTM model in 2024 (first version on Kaggle, 7 September 2024). It was presented at ICATEST in 2025 and published by Springer as this chapter in 2026 · [Code](https://github.com/CollinsLemeke/Tesla-Stock-Prediction) · [Notebook](https://www.kaggle.com/code/collinslemeke/tesla-stock-prediction)
 - **Ethical, Legal and Governance Considerations in AI-Driven Global Trade and Supply Chain Management** · Chapter 9 in *[Artificial Intelligence in Global Trade and Supply Chain Management](https://www.routledge.com/Artificial-Intelligence-in-Global-Trade-and-Supply-Chain-Management-Fundamentals-Applications-Governance-and-Future-Directions/Iwendi/p/book/9781041468769)* (ed. C. Iwendi), CRC Press / Taylor & Francis, 2027 · *Second author* · Textbook endorsed by Dr Ngozi Okonjo-Iweala, Director-General of the WTO
 
 **Conference papers: published**

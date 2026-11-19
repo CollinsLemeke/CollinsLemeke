@@ -8,7 +8,7 @@ Building small, efficient and explainable AI that works for real people, outside
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/collins-lemeke-ai-machine-learning)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.co.uk/citations?user=0GSSSfsAAAAJ&hl=en)
-[![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/author/YOUR_AUTHOR_ID)
+[![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=collins%20lemeke)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-3192-7461)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/Lemeke)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/collinslemeke)
@@ -96,7 +96,7 @@ The code behind my papers is open source on GitHub and Kaggle, free for anyone t
 
 **In preparation:** fairness-aware facial expression recognition, and a journal extension of my lightweight affective state recognition work.
 
-Full author lists and citations are on my [Google Scholar](https://scholar.google.co.uk/citations?user=0GSSSfsAAAAJ&hl=en) and [IEEE Xplore]([https://ieeexplore.ieee.org/author/YOUR_AUTHOR_ID](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=collins%20lemeke)) profiles.
+Full author lists and citations are on my [Google Scholar](https://scholar.google.co.uk/citations?user=0GSSSfsAAAAJ&hl=en) and [IEEE Xplore](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=collins%20lemeke) profiles.
 
 ---
 

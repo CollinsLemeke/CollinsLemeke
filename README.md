@@ -21,7 +21,7 @@ Building small, efficient and explainable AI that works for real people, outside
 
 - 🪙 **IEEE President's coin**, presented by Mary Ellen Randall, 2026 IEEE President and CEO, at IEEE Future Automation Day, Palace of Westminster (Nov 2026)
 - 🤖 **Led the CIoTh robotics exhibition** at the University of West London the same day, and open-sourced the code for both robots
-- 📚 **Two book chapters:** first author of a Springer chapter, and co-author of a chapter in a CRC Press textbook endorsed by the Director-General of the World Trade Organization
+- 📚 **Two book chapters:** first author of a Springer chapter, and co-author of a chapter in a CRC Press textbook endorsed by Dr Ngozi Okonjo-Iweala, Director-General of the World Trade Organization
 - 📄 **Seven peer-reviewed conference papers:** four published with IEEE, three accepted (two as first author, at Springer LNNS and IEEE)
 - 📰 **Featured in [THISDAY](https://www.thisdaylive.com/2026/11/09/nigerian-ai-researcher-collins-lemeke-receives-ieee-presidents-coin-at-uk-parliament/)** (Nov 2026)
 - 📊 **Open work:** 15 Kaggle notebooks and 23 datasets, copied and forked over 220 times
@@ -40,7 +40,7 @@ I moved to the UK in February 2025 to study. Since then I have published or had 
 
 That background shapes what I value. I care less about benchmark wins and more about whether a system holds up with real users: what it costs to run, how it fails, and whether the person relying on it can understand what it is doing.
 
-Today I am an Associate Researcher at the Centre of Intelligence of Things (CIoTh), University of Greater Manchester, and co-founder and Vice Chairman of AI Nexus, the university's AI society.
+Today I am an Associate Researcher at the Centre of Intelligence of Things (CIoTh), University of Greater Manchester. It is unpaid and entirely self-driven: I started there as a student because I wanted to do real research, and I still give it my own time alongside my day job. I am also the co-founder and former Vice Chairman of AI Nexus, the university's AI society.
 
 ---
 
@@ -99,7 +99,7 @@ Presented by Mary Ellen Randall, 2026 IEEE President and CEO, at IEEE Future Aut
 [THISDAY: Nigerian AI Researcher Collins Lemeke Receives IEEE President's Coin at UK Parliament](https://www.thisdaylive.com/2026/11/09/nigerian-ai-researcher-collins-lemeke-receives-ieee-presidents-coin-at-uk-parliament/)
 
 **Chapter in a WTO-endorsed textbook (2027)**
-Co-author of the chapter on ethics, law and governance in *Artificial Intelligence in Global Trade and Supply Chain Management* (CRC Press), a textbook endorsed by the Director-General of the World Trade Organization.
+Co-author of the chapter on ethics, law and governance in *Artificial Intelligence in Global Trade and Supply Chain Management* (CRC Press), a textbook endorsed by Dr Ngozi Okonjo-Iweala, Director-General of the World Trade Organization.
 
 **NLP Excellence Award, ICI3T 2026**
 For my first-author paper on lightweight NLP for affective state recognition, in the Human-Centred NLP & Affective State Recognition category. Conference organised by "Gheorghe Asachi" Technical University of Iasi, Romania.

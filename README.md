@@ -22,7 +22,7 @@ Building small, efficient and explainable AI that works for real people, outside
 - 🪙 **IEEE President's coin**, presented by Mary Ellen Randall, 2026 IEEE President and CEO, at IEEE Future Automation Day, Palace of Westminster (Nov 2026)
 - 🤖 **Led the CIoTh robotics exhibition** at the University of West London the same day, and open-sourced the code for both robots
 - 📚 **Two book chapters:** first author of a Springer chapter, and co-author of a chapter in a CRC Press textbook endorsed by Dr Ngozi Okonjo-Iweala, Director-General of the World Trade Organization
-- 📄 **Seven peer-reviewed conference papers:** four published with IEEE, three accepted (two as first author, at Springer LNNS and IEEE)
+- 📄 **Seven peer-reviewed conference papers:** four published with IEEE, three accepted (two as first author, at Springer LNNS and IEEE). I designed the algorithms and experiments behind four of them, and the code is open source
 - 📰 **Featured in [THISDAY](https://www.thisdaylive.com/2026/11/09/nigerian-ai-researcher-collins-lemeke-receives-ieee-presidents-coin-at-uk-parliament/)** (Nov 2026)
 - 📊 **Open work:** 15 Kaggle notebooks and 23 datasets, copied and forked over 220 times
 - 🏆 **NLP Excellence Award, ICI3T 2026** for my first-author paper on lightweight affective state recognition
@@ -68,23 +68,31 @@ Today I am an Associate Researcher at the Centre of Intelligence of Things (CIoT
 
 ### Publications
 
+The code behind my papers is open source on GitHub and Kaggle, free for anyone to use, test and build on.
+
 **Book chapters**
 
 - **Deep learning approach for stock closing price prediction: a hybrid approach using RNN-LSTM architecture** · Chapter 14 in *Innovative Engineering and Scientific Approaches for Sustainable Economy and Ecotechnology* (ICATEST 2025), Springer, 2026 · *First author* · DOI: 10.1007/978-3-032-15061-5_14 (online December 2026)
-- **Ethical, Legal and Governance Considerations in AI-Driven Global Trade and Supply Chain Management** · Chapter 9 in *[Artificial Intelligence in Global Trade and Supply Chain Management](https://www.routledge.com/Artificial-Intelligence-in-Global-Trade-and-Supply-Chain-Management-Fundamentals-Applications-Governance-and-Future-Directions/Iwendi/p/book/9781041468769)* (ed. C. Iwendi), CRC Press / Taylor & Francis, 2027 · *Second author* · Textbook endorsed by the Director-General of the WTO
+  - *My role:* designed and built the hybrid RNN-LSTM model in 2024. It was presented at ICATEST in 2025 and published by Springer as this chapter in 2026 · [Code](https://github.com/CollinsLemeke/Tesla-Stock-Prediction) · [Notebook](https://www.kaggle.com/code/collinslemeke/tesla-stock-prediction)
+- **Ethical, Legal and Governance Considerations in AI-Driven Global Trade and Supply Chain Management** · Chapter 9 in *[Artificial Intelligence in Global Trade and Supply Chain Management](https://www.routledge.com/Artificial-Intelligence-in-Global-Trade-and-Supply-Chain-Management-Fundamentals-Applications-Governance-and-Future-Directions/Iwendi/p/book/9781041468769)* (ed. C. Iwendi), CRC Press / Taylor & Francis, 2027 · *Second author* · Textbook endorsed by Dr Ngozi Okonjo-Iweala, Director-General of the WTO
 
 **Conference papers: published**
 
 - **Psycho-Intelligent Dialogue Agents for Enhancing Emotional Self-Regulation in Autistic Teenagers** · IEEE IC3ECSBHI 2026
+  - *My role:* designed the experiment and built the facial emotion recognition model at the core of the paper. Its results are what the paper reports · [Code](https://github.com/CollinsLemeke/Autism-Facial-Emotion-Classification) · [Notebook](https://www.kaggle.com/code/collinslemeke/autism-emotion-detection)
+- **Smart Irrigation System Using Soil Moisture Sensor** · IEEE ICTBIG 2025
+  - *My role:* co-designed the embedded system, building the sensing and control on Arduino
 - **Integrating Behavioural Science using the Psycho-Intelligence Framework in Connected Systems** · IEEE ICTBIG 2025
 - **Detecting Emerging Patterns in Bank Card Fraud Using a Neuroadaptive Deep Learning Framework** · IEEE ICTBIG 2025
-- **Smart Irrigation System Using Soil Moisture Sensor** · IEEE ICTBIG 2025
 
 **Conference papers: accepted and forthcoming**
 
 - **Adaptive Cognitive Psychointelligence for Affective State Recognition: A Lightweight NLP Framework for Human-Centred AI** · ICI3T 2026, Springer LNNS · *First author* · NLP Excellence Award
+  - *My role:* designed the algorithm and the experiment. The results are the reason the paper exists · [Code](https://github.com/CollinsLemeke/DistilBERT-Sentiment-Analysis-for-Mental-Health) · [Notebook](https://www.kaggle.com/code/collinslemeke/distilbert-sentiment-analysis-for-mental-health)
 - **A Psycho-Intelligence Framework for Carbon-Aware Mental Health Sentiment Analysis: DistilBERT Versus Seven Frontier LLMs** · IEEE ICCCMLA 2026 · *First and presenting author*
+  - *My role:* designed the algorithm and the experiment, ran the benchmark against seven frontier LLMs, and presented the work · [Code](https://github.com/CollinsLemeke/DistilBERT-vs-Frontier-LLMs) · [Notebook](https://www.kaggle.com/code/collinslemeke/distilbert-vs-frontier-llms-on-narrow-ai-task)
 - **Psychointelligence for Dementia and Falls in Older Adults: Interpretable Cognitive-Decline Screening from Gait Sensor Data** · IEEE ICOIN 2027 · *Second author*
+  - *My role:* designed the algorithm and the experiment. The paper is built on its results · [Code](https://github.com/CollinsLemeke/Detecting-Cognitive-Decline-Falls-and-Frailty) · [Dataset](https://www.kaggle.com/datasets/collinslemeke/gstride-gait-frailty-and-cognitive-dataset)
 
 **In preparation:** fairness-aware facial expression recognition, and a journal extension of my lightweight affective state recognition work.
 

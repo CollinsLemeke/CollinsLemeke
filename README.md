@@ -40,7 +40,7 @@ I moved to the UK in February 2025 to study. Since then I have published or had 
 
 That background shapes what I value. I care less about benchmark wins and more about whether a system holds up with real users: what it costs to run, how it fails, and whether the person relying on it can understand what it is doing.
 
-Today I am an Associate Researcher at the Centre of Intelligence of Things (CIoTh), University of Greater Manchester. It is unpaid and entirely self-driven: I started there as a student because I wanted to do real research, and I still give it my own time alongside my day job. I am also the co-founder and former Vice Chairman of AI Nexus, the university's AI society.
+Today I am an Associate Researcher at the Centre of Intelligence of Things (CIoTh), University of Greater Manchester. It is unpaid and entirely self-driven: I started there as a student because I wanted to do real research, and I still give it my own time alongside my day job. I am also the co-founder and former Vice Chairman of AI Nexus, the first AI-dedicated society at the University of Greater Manchester.
 
 ---
 

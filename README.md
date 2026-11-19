@@ -96,7 +96,7 @@ The code behind my papers is open source on GitHub and Kaggle, free for anyone t
 
 **In preparation:** fairness-aware facial expression recognition, and a journal extension of my lightweight affective state recognition work.
 
-Full author lists and citations are on my [Google Scholar](https://scholar.google.co.uk/citations?user=0GSSSfsAAAAJ&hl=en) and [IEEE Xplore](https://ieeexplore.ieee.org/author/YOUR_AUTHOR_ID) profiles.
+Full author lists and citations are on my [Google Scholar](https://scholar.google.co.uk/citations?user=0GSSSfsAAAAJ&hl=en) and [IEEE Xplore]([https://ieeexplore.ieee.org/author/YOUR_AUTHOR_ID](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=collins%20lemeke)) profiles.
 
 ---
 
